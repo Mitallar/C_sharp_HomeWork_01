@@ -1,0 +1,15 @@
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\bin\Debug\net7.0\hometask 2.exe
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\bin\Debug\net7.0\hometask 2.deps.json
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\bin\Debug\net7.0\hometask 2.runtimeconfig.json
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\bin\Debug\net7.0\hometask 2.dll
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\bin\Debug\net7.0\hometask 2.pdb
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.csproj.AssemblyReference.cache
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.AssemblyInfoInputs.cache
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.AssemblyInfo.cs
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.csproj.CoreCompileInputs.cache
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.dll
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\refint\hometask 2.dll
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.pdb
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\hometask 2.genruntimeconfig.cache
+C:\Users\strel\OneDrive\Документы\Учёба\GeekBrains\Основной блок\I четверть\3. Знакомство с языками программирования\Семинары\Урок №1\ДЗ\дз\hometask 2\obj\Debug\net7.0\ref\hometask 2.dll
